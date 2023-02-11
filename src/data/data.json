@@ -1,0 +1,58 @@
+{
+    "Header": {
+
+        "title": " HOPE"
+    },
+    "About": {
+        "paragraph": "Our goal is to redistribute surplus food and water to the individuals who are needing it. If any event like a wedding or party has excess of food and water it will be collected from that location and distributed among the people who need it in the nearest area through our project. Thus this would prevent wastage of food and water and would also benefit the weaker section of the society who are unable to afford these meals.",
+        "Why": [
+            "One-stop Solution",
+            "Guaranteed Delivery",
+            "Easy Availability"
+        ],
+        "Why2": [
+            "Saving Food",
+            "Helping the Needy",
+            "Clean Drinking Water"
+        ]
+    },
+    "Services": [{
+            "link": "https://forms.gle/2oFLo8vTLnnQ6ssg9", 
+            "icon": "fa fa-credit-card",
+            "name": "Donate food",
+            "text": "India wastes nearly 67 million and It amounts to Rs93,000 cr worth of food, which means it can feed the most populous state of Bihar for a complete year."
+        },
+        {
+            "link": "https://forms.gle/S4bYLkFi1aYV5yGP6 ",
+            "icon": "fa fa-lightbulb-o",
+            "name": "Claimer",
+            "text": "Confirms accuracy and quality compliance of all deliveries through verification, reconiciliation, inspection and adherence to Food Safety standards."
+        },
+        {
+            "link": "https://forms.gle/uE3fWkC2f2TbvZTp9",
+            "icon": "fa fa-wheelchair",
+            "name": "Donate water",
+            "text": "Donate Water When you donate for safe water, you change a community and save lives. "
+        }
+    ],
+
+    "Contact": {
+        "address": "stno.  ",
+        "phone": "+91 xxxxxxxxxx",
+        "email": "lorenipsum@gmail.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-cutlery",
+            "title": "Preventing Hunger",
+            "text": "Many people are suffering from hunger worldwide. We make everything possible to solve this problem."
+        },
+        {
+            "icon": "fa fa-tint",
+            "title": "Provide Clean Drinking Water",
+            "text": "Contaminated water and poor sanitation are linked to transmission of diseases. We make everything possible to solve this problem."
+        }
+    ]
+}
