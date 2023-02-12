@@ -23,7 +23,7 @@ To Visit App:
 `localhost:3000/`  
 
 ## Home Page
-(![image](https://user-images.githubusercontent.com/122197021/218319476-47ff2d76-efc8-4d0b-9deb-f2dd1c2bd42c.png)
+![image](https://user-images.githubusercontent.com/122197021/218319476-47ff2d76-efc8-4d0b-9deb-f2dd1c2bd42c.png)
 
 ## Features
 ![image](https://user-images.githubusercontent.com/122197021/218319570-bb89af36-4f71-4ccf-9b3f-d6528d05ab0a.png)
