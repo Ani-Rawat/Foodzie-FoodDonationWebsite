@@ -34,6 +34,6 @@ To Visit App:
 ## Join us
 ![image](https://user-images.githubusercontent.com/122197021/218319664-b1ab6e4c-c7f9-4d77-a35a-d2d32801e3b3.png)
 
-## Contact us
+## Contact info
 ![image](https://user-images.githubusercontent.com/122197021/218319867-ec836f22-0f89-4f5a-beea-e638a00785ea.png)
 
