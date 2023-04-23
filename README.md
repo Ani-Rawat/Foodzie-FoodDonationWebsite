@@ -21,7 +21,6 @@ To Start Server:
 To Visit App:
 
 `localhost:3000/`  
-
 ## Home Page
 ![image](https://user-images.githubusercontent.com/122197021/218319476-47ff2d76-efc8-4d0b-9deb-f2dd1c2bd42c.png)
 
